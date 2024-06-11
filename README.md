@@ -6,7 +6,7 @@ The dataset consists of images used for training and testing the YOLO network ai
 In each photo, as a reference object, a 1 złoty coin with a diameter of d=23 mm and an area of P=415.48 mm² is placed.
 
 # Results 
-In the "results" directory, photos of the detections are stored along with the calculated dimensions of the seeds, including width, length, and the calculated area.
+In the "results" directory, photos of the detections are stored along with the calculated dimensions of the seeds, including height, width, and the calculated area.
 
 
 
