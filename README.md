@@ -1,4 +1,4 @@
-# A database containing images of coffee and white beans for accurate seed size detection
+# A database containing images of coffee and white beans for seed size detection
 
 The dataset consists of images used for training and testing the YOLO network aimed at detecting coffee beans and white beans. 
 
